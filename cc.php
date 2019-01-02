@@ -1,6 +1,6 @@
 <?php 
 
 
-echo "texto de novo";
+echo "texto de novo editado pelo site agora";
 
 ?>
